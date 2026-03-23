@@ -3,7 +3,8 @@ ipywidgets
 numpy
 matplotlib
 seaborn
-Pillowipywidgets
+Pillow
+ipywidgets
 IPython
 matplotlib
 seaborn
