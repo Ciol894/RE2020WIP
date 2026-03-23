@@ -1,4 +1,9 @@
+voila
 ipywidgets
+numpy
+matplotlib
+seaborn
+Pillowipywidgets
 IPython
 matplotlib
 seaborn
